@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "CosmosDBConnection": "<Cosmos connection string>",
+    "StorageConnectionString": "<Storage connection string>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ingereaditappsa;AccountKey=99V1q05AtoS2VTvDIEMWngDOo7e2Pig9kOds/J/rZDIWinjgsOcitN7QnkNAQfYeVO80nSxF/JLP+AStwsiC5Q==;EndpointSuffix=core.windows.net"
+  }
+}
